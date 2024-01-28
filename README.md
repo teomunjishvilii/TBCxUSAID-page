@@ -24,6 +24,6 @@ Interactive web page highlighting courses, partners, and FAQ for the TBCxUSAID i
 პროექტის გასაშვებად, გთხოვთ მიჰყვეთ შემდეგ საფეხურებს:
 
 1. გახსენით ტერმინალი საჭირო directory-ში, სადაც გსურთ რომ მოათავსოთ მოცემული პროექტი.
-2. ტერმინალში ჩაწერეთ შემდეგი ბრძანება -- git clone
+2. ტერმინალში ჩაწერეთ შემდეგი ბრძანება -- git clone https://github.com/teomunjishvilii/TBCxUSAID-page.git
 3. გახსენით index.html ფაილი.
 
