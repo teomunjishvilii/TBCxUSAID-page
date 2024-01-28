@@ -25,5 +25,4 @@ Interactive web page highlighting courses, partners, and FAQ for the TBCxUSAID i
 
 გახსენით ტერმინალი საჭირო directory-ში, სადაც გსურთ რომ მოათავსოთ მოცემული პროექტი.
 ტერმინალში ჩაწერეთ შემდეგი ბრძანება (საჭიროა რომ git გქონდეთ დაყენებული)
--- git clone https://github.com/budagovi/tbc-usaid.git
-გადადით გადმოწერილ ფოლდერში და გახსენით index.html
+
